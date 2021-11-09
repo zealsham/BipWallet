@@ -1,0 +1,20 @@
+{
+  "name": "bit-wallet",
+  "version": "1.0.0",
+  "description": "simple bitcoin wallet ",
+  "main": "wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "wallet"
+  ],
+  "author": "shammah agwor",
+  "license": "MIT",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^5.2.0"
+  }
+}
